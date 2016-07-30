@@ -6,9 +6,9 @@ publish/
 perf/
 
 # Native libraries
-lib
-lib-*
-^lib/**/*.txt
+# lib
+# lib-*
+# ^lib/**/*.txt
 
 # NuGet-related
 packages
