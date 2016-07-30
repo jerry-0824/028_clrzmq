@@ -11,7 +11,7 @@ perf/
 # ^lib/**/*.txt
 
 # NuGet-related
-packages
+# packages
 
 # User Settings
 *.suo
