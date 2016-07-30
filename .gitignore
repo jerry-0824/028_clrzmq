@@ -3,7 +3,7 @@ bin/
 obj/
 build/
 publish/
-perf/
+# perf/
 
 # Native libraries
 # lib
